@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Beispiel;Berthold;;Herr;Betriebswirt
+FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:Herr=20G=C3=BCnther=20Testfall
+ORG;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:G=C3=9CNTHER=20Beispiele=20&=20Tests=20GmbH
+TEL;TYPE=voice,work:+49 1234 9876 - 12
+TEL;WORK;FAX:+49 1234 9876 - 34
+ADR;TYPE=intl,work,postal,parcel:;;Musterweg 23;Beispielstadt;;12345;Deutschland
+URL;WORK:http://www.domain.de
+EMAIL;type=INTERNET;type=WORK;type=pref:berthold.beispiel@domain.de
+REV:20141120T131430Z
+END:VCARD

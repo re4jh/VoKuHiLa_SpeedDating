@@ -1,0 +1,3 @@
+RewriteEngine on
+Options +FollowSymlinks
+RewriteRule ^([0-9]+)$ http://%{HTTP_HOST}/vk/index.php?vcard=$1 [NC]

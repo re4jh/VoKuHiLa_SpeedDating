@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Prosit;Peter;;Herr;
+FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:Peter Prosit
+ORG;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:G=C3=9CNTHER=20Beispiele=20&=20Tests=20GmbH
+TITLE:Buchhaltung / accountancy
+TEL;TYPE=voice,work:+49 1234 9876 - 12
+TEL;WORK;FAX:+49 1234 9876 - 34
+ADR;TYPE=intl,work,postal,parcel:;;Musterweg 23;Beispielstadt;;12345;Deutschland
+URL;WORK:http://www.domain.de
+EMAIL;type=INTERNET;type=WORK;type=pref:peter.prosit@domain.de
+REV:20141120T123841Z
+END:VCARD
